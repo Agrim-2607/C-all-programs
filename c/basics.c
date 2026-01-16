@@ -139,7 +139,8 @@ int main()
     do
     {
         printf("do while loop is running");
-    } while (j > 65656);
+    }
+    while (j > 65656);
 
     printf("\n\n*******Functions in C*********\n\n");
 
